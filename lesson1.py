@@ -28,3 +28,5 @@ print("Your favorite food is", food )
 animal = input("What is your favorite animal?")
 print("Your favorite animal is a" + animal)
 # the plus sign is used to contentation strings
+
+# lets make do some more practice
